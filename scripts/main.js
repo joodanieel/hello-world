@@ -1,4 +1,4 @@
 const myHeading =
-  document . querySelector ("h1");
+document . querySelector ("h1");
 myHeading . textContent =
-  "Hello World!";
+"Hello World!";
